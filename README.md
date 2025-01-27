@@ -20,3 +20,8 @@ ESP32 powered device fro all things F1!
 - Circuit info
 - Event Countdown
 - Upcoming Events with info
+
+
+## License
+
+This project is licensed under the MIT License
