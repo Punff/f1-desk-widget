@@ -1,6 +1,6 @@
 # F1 Desk Widget
 
-ESP32 powered device fro all things F1!
+ESP32 powered device for all things F1!
 
 ## Features
 
